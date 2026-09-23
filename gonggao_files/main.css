@@ -1,0 +1,533 @@
+@import url( /logo/xtl_logo_lk.css );
+HTML {
+	OVERFLOW-X: hidden
+}
+BODY {
+	FONT: 12px/22px tahoma, arial, 'ËÎÌå', sans-serif; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/bg.jpg) #ffffff; HEIGHT: 100%
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.hiText {
+	DISPLAY: none
+}
+.header {
+	BACKGROUND: url(http://i1.cy.com/xtl/main/20141022/m_header_bg.jpg) no-repeat
+}
+.header_hover {
+	BACKGROUND: url(http://i1.cy.com/xtl/main/20141022/m_header_bg.jpg) no-repeat
+}
+.header {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 1000px; BACKGROUND-POSITION: 0px 0px; HEIGHT: 350px; OVERFLOW: hidden
+}
+.header_hover {
+	BACKGROUND-POSITION: 0px -350px
+}
+.page {
+	WIDTH: 100%; BACKGROUND: url(http://i1.cy.com/xtl/main/20140930/m_top_bg.jpg?aa) no-repeat center top; HEIGHT: 100%
+}
+.menuNav {
+	POSITION: absolute; WIDTH: 701px; HEIGHT: 33px; OVERFLOW: hidden; RIGHT: 40px; TOP: 15px
+}
+.menuNav A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 33px; WIDTH: 79px; DISPLAY: block; FONT-FAMILY: "Microsoft YaHei"; FLOAT: left; HEIGHT: 33px; COLOR: #35180e; FONT-SIZE: 14px; OVERFLOW: hidden; CURSOR: default
+}
+.menuNav A:hover {
+	COLOR: #b13f36; TEXT-DECORATION: none
+}
+.menuNav A.news {
+	WIDTH: 79px
+}
+.menuNav A.tese {
+	WIDTH: 79px
+}
+.menuNav A.down {
+	WIDTH: 79px
+}
+.menuNav A.guide {
+	WIDTH: 79px
+}
+.menuNav A.video {
+	WIDTH: 79px
+}
+.menuNav A.twjh {
+	WIDTH: 79px
+}
+.lunboLink {
+	POSITION: absolute; TEXT-INDENT: -99999px; WIDTH: 570px; DISPLAY: block; HEIGHT: 168px; OVERFLOW: hidden; RIGHT: 0px; TOP: 48px
+}
+.subNav {
+	Z-INDEX: 8; POSITION: absolute; PADDING-LEFT: 83px; WIDTH: 618px; DISPLAY: none; HEIGHT: 160px; RIGHT: 46px; TOP: 48px
+}
+.subNav LI {
+	Z-INDEX: 8; POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 21px; PADDING-LEFT: 0px; WIDTH: 73px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.subNav LI A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; COLOR: #433535; CURSOR: pointer; PADDING-TOP: 2px
+}
+.subNav LI A:hover {
+	BACKGROUND: #92351f; COLOR: #ffef9d; TEXT-DECORATION: none
+}
+.subNav LI.news {
+	WIDTH: 80px
+}
+.subNav LI.tese {
+	WIDTH: 80px
+}
+.subNav LI.download {
+	WIDTH: 80px
+}
+.subNav LI.guide {
+	WIDTH: 80px
+}
+.subNav LI.video {
+	WIDTH: 80px
+}
+.subNav LI.twjh {
+	WIDTH: 80px
+}
+.bg_content {
+	WIDTH: 100%; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/btm_bg.jpg) no-repeat center bottom
+}
+.main_content {
+	Z-INDEX: 10; POSITION: relative; PADDING-BOTTOM: 34px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 1000px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ad3box {
+	WIDTH: 100%; HEIGHT: 135px
+}
+.ad3box A {
+	BORDER-BOTTOM: #cab792 1px solid; BORDER-LEFT: #cab792 1px solid; WIDTH: 246px; DISPLAY: block; FLOAT: left; HEIGHT: 133px; BORDER-TOP: #cab792 1px solid; MARGIN-RIGHT: 17px; BORDER-RIGHT: #cab792 1px solid
+}
+.ad3box A.ad3boxlink3 {
+	MARGIN: 0px
+}
+.rightbar {
+	WIDTH: 780px; FLOAT: right
+}
+.top_rightbar {
+	POSITION: relative; WIDTH: 780px; HEIGHT: 389px
+}
+#focus {
+	POSITION: absolute; WIDTH: 310px; HEIGHT: 430px; OVERFLOW: hidden; TOP: -41px; LEFT: 0px
+}
+#focus {
+	DISPLAY: block
+}
+#focus .focusImg A {
+	DISPLAY: block
+}
+#focus .focusImg IMG {
+	DISPLAY: block
+}
+#focus .focusImg {
+	Z-INDEX: 0
+}
+#focus .focusImg IMG {
+	BACKGROUND: url(http://i0.cy.com/tl3/cover/20121116/server_load.gif) no-repeat center center
+}
+.focusInner {
+	Z-INDEX: 0; POSITION: relative; WIDTH: 310px; HEIGHT: 430px; OVERFLOW: hidden
+}
+.focusInner UL {
+	POSITION: relative; WIDTH: 310px; HEIGHT: 430px; OVERFLOW: hidden
+}
+.focusInner UL IMG {
+	DISPLAY: block; VERTICAL-ALIGN: top
+}
+.focusInner UL A {
+	DISPLAY: block
+}
+#focus .num {
+	Z-INDEX: 10; POSITION: absolute; BOTTOM: 5px; HEIGHT: 16px; OVERFLOW: hidden; RIGHT: 9px
+}
+#focus .num A {
+	TEXT-INDENT: -9999px; WIDTH: 15px; DISPLAY: block; BACKGROUND: #fff; FLOAT: left; HEIGHT: 15px; CURSOR: pointer; MARGIN-RIGHT: 5px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px
+}
+#focus .num A:hover {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: #9e321e; HEIGHT: 15px
+}
+#focus .num A.active {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: #9e321e; HEIGHT: 15px
+}
+.top_news {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 460px; PADDING-RIGHT: 0px; FLOAT: right; HEIGHT: 358px; OVERFLOW: hidden; PADDING-TOP: 31px
+}
+.top_news_ad {
+	WIDTH: 460px; HEIGHT: 90px; OVERFLOW: hidden
+}
+.top_news_box {
+	POSITION: relative; WIDTH: 460px; BACKGROUND: #fdf4e0; HEIGHT: 267px; OVERFLOW: hidden
+}
+.top_news_tabs {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 460px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px 0px; HEIGHT: 37px; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+.top_news_tabs LI {
+	WIDTH: 75px; FLOAT: left; HEIGHT: 37px
+}
+.top_news_tabs LI A {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 32px; WIDTH: 100%; DISPLAY: block; FONT-FAMILY: "Microsoft YaHei"; HEIGHT: 32px; COLOR: #fdf4e0; FONT-SIZE: 14px; CURSOR: pointer; FONT-WEIGHT: bold
+}
+.top_news_tabs LI#tab1 {
+	WIDTH: 83px
+}
+.top_news_tabs LI#tab2 {
+	WIDTH: 71px
+}
+.top_news_tabs LI#tab3 {
+	WIDTH: 71px
+}
+.top_news_tabs LI#tab4 {
+	WIDTH: 75px
+}
+.top_news_tabs LI .current {
+	BORDER-BOTTOM: #c64e36 5px solid; TEXT-DECORATION: none
+}
+.top_news_tabs LI A:hover {
+	BORDER-BOTTOM: #c64e36 5px solid; TEXT-DECORATION: none
+}
+.top_news_cont {
+	BORDER-BOTTOM: #cac1aa 1px solid; BORDER-LEFT: #cac1aa 1px solid; WIDTH: 458px; HEIGHT: 224px; BORDER-TOP: medium none; BORDER-RIGHT: #cac1aa 1px solid
+}
+.imp_news {
+	BORDER-BOTTOM: #ad9873 1px dashed; TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 416px; HEIGHT: 46px; OVERFLOW: hidden
+}
+.imp_news A {
+	COLOR: #c64e36
+}
+.imp_news DT {
+	TEXT-ALIGN: center; LINE-HEIGHT: 46px; FONT-FAMILY: "Microsoft YaHei"; HEIGHT: 46px; FONT-SIZE: 14px; OVERFLOW: hidden; FONT-WEIGHT: bold
+}
+.newscont {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 412px; PADDING-RIGHT: 0px; DISPLAY: none; HEIGHT: 144px; PADDING-TOP: 10px
+}
+.newscont UL {
+	OVERFLOW: hidden
+}
+.newscont LI {
+	BORDER-BOTTOM: #cbc3b4 1px dashed; LINE-HEIGHT: 23px; WIDTH: 100%; FLOAT: left; HEIGHT: 23px; COLOR: #685e4d; OVERFLOW: hidden
+}
+.newscont LI .time {
+	FLOAT: right
+}
+.newscont LI EM {
+	PADDING-RIGHT: 2px; COLOR: #685e4d
+}
+.newscont LI A {
+	COLOR: #685e4d
+}
+.newscont LI A.impnews {
+	COLOR: #941414
+}
+.newscont LI A:hover {
+	COLOR: #c64e36
+}
+.newscont .more {
+	POSITION: absolute; LINE-HEIGHT: 42px; WIDTH: 61px; HEIGHT: 42px; COLOR: #ffcb9d; FONT-SIZE: 10px; RIGHT: -24px; TOP: -89px
+}
+.newscont .more A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #4d3e39
+}
+.newscont .more A:hover {
+	COLOR: #4d3e39
+}
+.newscont .more SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 0px; COLOR: #a5412d; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.btm_rightbar {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 760px; PADDING-RIGHT: 0px; HEIGHT: 770px; PADDING-TOP: 0px
+}
+.info_twjh_right {
+	WIDTH: 420px; FLOAT: left; HEIGHT: 770px; OVERFLOW: hidden
+}
+.news_info {
+	WIDTH: 420px; HEIGHT: 206px; OVERFLOW: hidden
+}
+.newPlayer {
+	POSITION: relative; WIDTH: 190px; FLOAT: left; HEIGHT: 206px; OVERFLOW: hidden
+}
+.newPlayer H2 {
+	LINE-HEIGHT: 34px; FONT-FAMILY: "Microsoft YaHei"; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/h2.png) repeat-x left bottom; HEIGHT: 34px; COLOR: #3a3936; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.infoBox H2 {
+	LINE-HEIGHT: 34px; FONT-FAMILY: "Microsoft YaHei"; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/h2.png) repeat-x left bottom; HEIGHT: 34px; COLOR: #3a3936; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.twjhBox H2 {
+	LINE-HEIGHT: 34px; FONT-FAMILY: "Microsoft YaHei"; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/h2.png) repeat-x left bottom; HEIGHT: 34px; COLOR: #3a3936; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.mediaBox H2 {
+	LINE-HEIGHT: 34px; FONT-FAMILY: "Microsoft YaHei"; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/h2.png) repeat-x left bottom; HEIGHT: 34px; COLOR: #3a3936; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.cooper_box H2 {
+	LINE-HEIGHT: 34px; FONT-FAMILY: "Microsoft YaHei"; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/h2.png) repeat-x left bottom; HEIGHT: 34px; COLOR: #3a3936; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.newPlayerList {
+	PADDING-BOTTOM: 12px; PADDING-LEFT: 0px; WIDTH: 190px; PADDING-RIGHT: 0px; HEIGHT: 60px; OVERFLOW: hidden; PADDING-TOP: 12px
+}
+.newPlayerList LI {
+	LINE-HEIGHT: 20px; WIDTH: 95px; FONT-FAMILY: "ËÎÌå"; FLOAT: left; HEIGHT: 20px; COLOR: #675e4c; OVERFLOW: hidden
+}
+.newPlayerList LI A {
+	COLOR: #675e4c
+}
+.newPlayerPic {
+	MARGIN: 0px auto; WIDTH: 190px; HEIGHT: 88px
+}
+.infoBox {
+	POSITION: relative; WIDTH: 190px; FLOAT: right; HEIGHT: 206px; OVERFLOW: hidden
+}
+.infoBox .more {
+	POSITION: absolute; LINE-HEIGHT: 26px; WIDTH: 48px; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/more.png) no-repeat right center; HEIGHT: 26px; RIGHT: 10px; TOP: 6px
+}
+.twjhBox .more {
+	POSITION: absolute; LINE-HEIGHT: 26px; WIDTH: 48px; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/more.png) no-repeat right center; HEIGHT: 26px; RIGHT: 10px; TOP: 6px
+}
+.twjhBox .more1 {
+	POSITION: absolute; LINE-HEIGHT: 26px; WIDTH: 48px; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/more.png) no-repeat right center; HEIGHT: 26px; RIGHT: 10px; TOP: 6px
+}
+.twjhBox .more2 {
+	POSITION: absolute; LINE-HEIGHT: 26px; WIDTH: 48px; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/more.png) no-repeat right center; HEIGHT: 26px; RIGHT: 10px; TOP: 6px
+}
+.infoBox .more A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #a4a098; FONT-SIZE: 10px
+}
+.twjhBox .more A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #a4a098; FONT-SIZE: 10px
+}
+.twjhBox .more1 A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #a4a098; FONT-SIZE: 10px
+}
+.twjhBox .more2 A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #a4a098; FONT-SIZE: 10px
+}
+.twjhBox .more1 {
+	TOP: 189px
+}
+.twjhBox .more2 {
+	TOP: 344px
+}
+.data_ser {
+	BORDER-BOTTOM: #c64e36 1px solid; MARGIN-TOP: 11px; PADDING-LEFT: 16px; WIDTH: 174px; BACKGROUND-POSITION: 0px -300px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden
+}
+.data_ser INPUT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 18px; WIDTH: 120px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; HEIGHT: 18px; COLOR: #a7a397; FONT-SIZE: 12px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.data_ser A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; WIDTH: 50px; DISPLAY: block; BACKGROUND: #c64e36; FLOAT: right; HEIGHT: 20px; COLOR: #fdf6e9
+}
+.data_key {
+	BORDER-BOTTOM: #8b7d63 1px dashed; PADDING-BOTTOM: 13px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; WIDTH: 190px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 40px; PADDING-TOP: 13px
+}
+.data_key A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; FLOAT: left; COLOR: #685e4d; PADDING-TOP: 0px
+}
+.data_list {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 190px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 60px; PADDING-TOP: 10px
+}
+.data_list LI {
+	LINE-HEIGHT: 20px; WIDTH: 190px; HEIGHT: 20px; COLOR: #685e4d; OVERFLOW: hidden
+}
+.data_list LI A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; COLOR: #685e4d; PADDING-TOP: 0px
+}
+.twjhBox {
+	POSITION: relative; WIDTH: 420px; HEIGHT: 474px; OVERFLOW: hidden
+}
+.twjh_top {
+	BORDER-BOTTOM: #8b7d63 1px dashed; WIDTH: 420px; HEIGHT: 98px
+}
+.twjh_top DT {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; PADDING-LEFT: 0px; WIDTH: 420px; PADDING-RIGHT: 0px; HEIGHT: 28px; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 10px
+}
+.twjh_top DT A {
+	COLOR: #c64e36
+}
+.twjh_top DD {
+	WIDTH: 420px; HEIGHT: 50px; OVERFLOW: hidden
+}
+.twjh_top DD P {
+	LINE-HEIGHT: 25px; WIDTH: 420px; HEIGHT: 25px; OVERFLOW: hidden
+}
+.twjh_top DD A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 10px; FLOAT: left; COLOR: #685e4d; PADDING-TOP: 0px
+}
+.twjh_top DD A:hover {
+	COLOR: #c64e36
+}
+.twjh_video {
+	MARGIN-TOP: 6px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 12px
+}
+.twjh_pic {
+	MARGIN-TOP: 6px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 12px
+}
+.twjh_video {
+	BACKGROUND-POSITION: -464px 0px
+}
+.twjh_pic {
+	BACKGROUND-POSITION: -480px 0px
+}
+.twjh_list {
+	WIDTH: 300px; HEIGHT: 240px; OVERFLOW: hidden
+}
+.twjh_list DL {
+	PADDING-BOTTOM: 18px; PADDING-LEFT: 0px; WIDTH: 420px; PADDING-RIGHT: 0px; HEIGHT: 108px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.twjh_list DT {
+	WIDTH: 108px; FLOAT: left; HEIGHT: 108px; OVERFLOW: hidden; MARGIN-RIGHT: 10px
+}
+.twjh_list DT IMG {
+	BORDER-BOTTOM: #d4c59e 1px solid; BORDER-LEFT: #d4c59e 1px solid; WIDTH: 108px; DISPLAY: block; HEIGHT: 108px; BORDER-TOP: #d4c59e 1px solid; BORDER-RIGHT: #d4c59e 1px solid
+}
+.twjh_list DD {
+	LINE-HEIGHT: 20px; WIDTH: 170px; FLOAT: left; HEIGHT: 108px
+}
+.twjh_list DD P {
+	LINE-HEIGHT: 20px; HEIGHT: 21px; OVERFLOW: hidden
+}
+.twjh_list DD A {
+	FONT-FAMILY: "ËÎÌå"; COLOR: #685e4d
+}
+.twjh_list DD A:hover {
+	COLOR: #c64e36
+}
+.zhiye_media {
+	WIDTH: 300px; FLOAT: right; HEIGHT: 770px; OVERFLOW: hidden
+}
+.zhiye_focus {
+	POSITION: relative; WIDTH: 300px; HEIGHT: 428px; OVERFLOW: hidden
+}
+.zhiye_focus H2 {
+	Z-INDEX: 10; POSITION: absolute; LINE-HEIGHT: 32px; FONT-FAMILY: "Microsoft YaHei"; HEIGHT: 32px; COLOR: #3a3936; FONT-SIZE: 18px; FONT-WEIGHT: bold; TOP: 0px; LEFT: 0px
+}
+.detail {
+	Z-INDEX: 5; POSITION: absolute; MARGIN: 0px auto; WIDTH: 300px; HEIGHT: 428px; TOP: 0px; LEFT: 0px
+}
+.jCarouselLite {
+	OVERFLOW: hidden
+}
+.jCarouselLite UL LI {
+	POSITION: relative; TEXT-ALIGN: center; WIDTH: 300px; DISPLAY: block; HEIGHT: 428px
+}
+.jCarouselLite UL LI B {
+	Z-INDEX: 5; POSITION: absolute; FILTER: alpha(opacity=85); WIDTH: 298px; DISPLAY: block; BACKGROUND: #241b19; HEIGHT: 91px; TOP: 337px; LEFT: 1px; opacity: 0.85
+}
+.jCarouselLite UL LI P {
+	Z-INDEX: 10; POSITION: absolute; TEXT-ALIGN: left; PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; WIDTH: 278px; PADDING-RIGHT: 15px; HEIGHT: 60px; COLOR: #e7dcc4; PADDING-TOP: 10px; TOP: 337px; LEFT: 0px
+}
+.next {
+	Z-INDEX: 10; POSITION: absolute; TEXT-INDENT: -9999em; WIDTH: 24px; DISPLAY: block; HEIGHT: 71px; TOP: 177px
+}
+.prev {
+	Z-INDEX: 10; POSITION: absolute; TEXT-INDENT: -9999em; WIDTH: 24px; DISPLAY: block; HEIGHT: 71px; TOP: 177px
+}
+.next {
+	BACKGROUND-POSITION: -504px -200px; RIGHT: -1px
+}
+.prev {
+	BACKGROUND-POSITION: -475px -200px; LEFT: -1px
+}
+.cooper_box {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 760px; PADDING-RIGHT: 0px; HEIGHT: 120px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.cooper_box UL {
+	WIDTH: 760px; HEIGHT: 86px; OVERFLOW: hidden
+}
+.cooper_box LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 11px; WIDTH: 108px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 33px; PADDING-TOP: 8px
+}
+.cooper_box LI IMG {
+	BORDER-BOTTOM: #d0c8b3 1px solid; BORDER-LEFT: #d0c8b3 1px solid; WIDTH: 106px; HEIGHT: 31px; BORDER-TOP: #d0c8b3 1px solid; BORDER-RIGHT: #d0c8b3 1px solid
+}
+.float_l {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 122px; HEIGHT: 205px; TOP: 50%; LEFT: 10px
+}
+* HTML .float_l {
+	POSITION: absolute; ; MARGIN-TOP: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 160 + 'px')
+}
+#pop_17173 A {
+	Z-INDEX: 10; POSITION: absolute; TEXT-INDENT: -9999em; WIDTH: 146px; DISPLAY: block; HEIGHT: 146px; CURSOR: pointer; TOP: 0px; LEFT: 0px
+}
+#pop_17173 .pop_17bg {
+	Z-INDEX: 8; POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i0.cy.com/xtl/main/20140504/17173.png',sizingMethod='scale'); WIDTH: 146px; BACKGROUND: 0px 50%; HEIGHT: 146px; TOP: 0px; LEFT: 0px
+}
+#pop_17173 {
+	Z-INDEX: 1; POSITION: fixed; MARGIN-TOP: -140px; WIDTH: 146px; HEIGHT: 146px; TOP: 50%; LEFT: 10px
+}
+* HTML #pop_17173 {
+	POSITION: absolute; ; MARGIN-TOP: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) -30 + 'px')
+}
+.serbtn {
+	Z-INDEX: 10; POSITION: absolute; TEXT-ALIGN: center; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i1.cy.com/xtl/main/20140822/serbtn.png',sizingMethod='scale'); WIDTH: 409px; DISPLAY: block; FONT: 18px/77px "Î¢ÈíÑÅºÚ"; BACKGROUND: 0px 50%; HEIGHT: 77px; COLOR: #fff7f6; TOP: 232px; LEFT: 234px
+}
+.serbtn:hover {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i1.cy.com/xtl/main/20140822/serbtn_h.png',sizingMethod='scale'); BACKGROUND: 0px 50%; TEXT-DECORATION: none
+}
+.serbtn SPAN.serbtntit {
+	POSITION: absolute; WIDTH: 32px; PADDING-RIGHT: 10px; DISPLAY: block; FONT: 16px/16px "·½Õý¿¬Ìå¼òÌå"; HEIGHT: 36px; COLOR: #fff7f6; BORDER-RIGHT: #d11717 1px solid; TOP: 23px; LEFT: 104px
+}
+.serbtn SPAN.ser1 {
+	POSITION: absolute; FONT: 12px/20px "Î¢ÈíÑÅºÚ"; COLOR: #fff7f6; TOP: 20px; LEFT: 158px
+}
+.serbtn SPAN.ser2 {
+	POSITION: absolute; FONT: 12px/20px "Î¢ÈíÑÅºÚ"; COLOR: #fff7f6; TOP: 40px; LEFT: 158px
+}
+#rFloat {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 200px; HEIGHT: 640px; TOP: 100px; LEFT: 0px
+}
+#rFloat A {
+	Z-INDEX: 9; POSITION: absolute; WIDTH: 200px; HEIGHT: 46px; TOP: 54px; LEFT: 0px
+}
+#rFloat .rBg {
+	POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i0.cy.com/xtl/main/20141022/floatBg.png',sizingMethod='scale'); WIDTH: 200px; BACKGROUND: 0px 50%; HEIGHT: 640px; TOP: 0px; LEFT: 0px
+}
+#rFloat .rCont {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; HEIGHT: 533px; PADDING-TOP: 94px; TOP: 0px; LEFT: 0px
+}
+#rFloat .rCont .close {
+	POSITION: absolute; WIDTH: 50px; DISPLAY: block; HEIGHT: 60px; CURSOR: pointer; RIGHT: 0px; TOP: 0px
+}
+#rFloat .rCont LI {
+	MARGIN: 0px auto; WIDTH: 120px; HEIGHT: 60px
+}
+#rFloat .rCont LI P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 34px; HEIGHT: 34px; COLOR: #dcdcdc
+}
+#rFloat .rCont LI SPAN {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; DISPLAY: block; HEIGHT: 20px; COLOR: #787878
+}
+* HTML #rFloat {
+	POSITION: absolute; ; MARGIN-TOP: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px')
+}
+
+@media Unknown    
+{
+#rFloat {
+	BOTTOM: -20px
+}
+#rFloat {
+	BOTTOM: 50px
+}
+    }
+#rFloatMin {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 60px; HEIGHT: 230px; TOP: 300px; LEFT: -60px
+}
+#rFloatMin .rBg {
+	POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i0.cy.com/xtl/main/20141022/floBgMin.png',sizingMethod='scale'); WIDTH: 60px; BACKGROUND: 0px 50%; HEIGHT: 230px; CURSOR: pointer; TOP: 0px; LEFT: 0px
+}
+#rFloatMin .rCont {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 60px; PADDING-RIGHT: 0px; HEIGHT: 230px; PADDING-TOP: 107px; TOP: 0px; LEFT: 0px
+}
+#rFloatMin .rCont .close {
+	POSITION: absolute; WIDTH: 50px; DISPLAY: block; HEIGHT: 60px; CURSOR: pointer; RIGHT: 0px; TOP: 0px
+}
+#rFloatMin .rCont LI {
+	MARGIN: 0px auto; WIDTH: 120px; HEIGHT: 60px
+}
+#rFloatMin .rCont LI P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 34px; HEIGHT: 34px; COLOR: #dcdcdc
+}
+#rFloatMin .rCont LI SPAN {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; DISPLAY: block; HEIGHT: 20px; COLOR: #787878
+}
+* HTML #rFloatMin {
+	POSITION: absolute; ; MARGIN-TOP: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px')
+}

@@ -1,0 +1,409 @@
+@import url( /logo/xtl_logo_lk.css );
+BODY {
+	FONT: 12px/22px tahoma, arial, '宋体', sans-serif; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/bg.jpg) #ffffff; HEIGHT: 100%
+}
+.hiText {
+	DISPLAY: none
+}
+.xtl_logo_bg {
+	TOP: 17px; LEFT: 0px
+}
+.xtl_logo_lk A {
+	TOP: 17px; LEFT: 0px
+}
+.top_news_tabs {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.weibo {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.weibo A {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.weixin_box {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.weixin_box I {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.xdc {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.data_ser {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.twjh_video {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.twjh_pic {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.next {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.prev {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.nav_btn {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.nav_btn A {
+	BACKGROUND: url(/sprite.jpg) no-repeat
+}
+.line44 {
+	WIDTH: 100%; HEIGHT: 44px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.line50 {
+	WIDTH: 100%; HEIGHT: 50px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.line10 {
+	WIDTH: 100%; HEIGHT: 10px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.line19 {
+	WIDTH: 100%; HEIGHT: 19px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.line24 {
+	WIDTH: 100%; HEIGHT: 19px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.line43 {
+	WIDTH: 100%; HEIGHT: 43px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.page {
+	WIDTH: 100%; BACKGROUND: url(http://i1.cy.com/xtl/main/20140930/top_bg.jpg) no-repeat center top; HEIGHT: 100%
+}
+.header {
+	BACKGROUND: url(http://i0.cy.com/xtl/main/20141022/header_bg.jpg) no-repeat
+}
+.header_hover {
+	BACKGROUND: url(http://i0.cy.com/xtl/main/20141022/header_bg.jpg) no-repeat
+}
+.header {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 1000px; BACKGROUND-POSITION: 0px 0px; HEIGHT: 228px; OVERFLOW: hidden
+}
+.header_hover {
+	BACKGROUND-POSITION: 0px -229px
+}
+.menuNav {
+	POSITION: absolute; WIDTH: 701px; HEIGHT: 33px; OVERFLOW: hidden; RIGHT: 0px; TOP: 15px
+}
+.menuNav A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 33px; WIDTH: 79px; DISPLAY: block; FONT-FAMILY: "Microsoft YaHei"; FLOAT: left; HEIGHT: 33px; COLOR: #35180e; FONT-SIZE: 14px; OVERFLOW: hidden; CURSOR: default
+}
+.menuNav A:hover {
+	COLOR: #b13f36; TEXT-DECORATION: none
+}
+.menuNav A.news {
+	WIDTH: 84px
+}
+.menuNav A.tese {
+	WIDTH: 89px
+}
+.menuNav A.down {
+	WIDTH: 89px
+}
+.menuNav A.guide {
+	WIDTH: 85px
+}
+.menuNav A.video {
+	WIDTH: 84px
+}
+.menuNav A.twjh {
+	WIDTH: 89px
+}
+.lunboLink {
+	POSITION: absolute; TEXT-INDENT: -99999px; WIDTH: 570px; DISPLAY: block; HEIGHT: 168px; OVERFLOW: hidden; RIGHT: 0px; TOP: 48px
+}
+.subNav {
+	Z-INDEX: 8; POSITION: absolute; PADDING-LEFT: 83px; WIDTH: 618px; DISPLAY: none; HEIGHT: 160px; RIGHT: 1px; TOP: 48px
+}
+.subNav LI {
+	Z-INDEX: 8; POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 21px; PADDING-LEFT: 0px; WIDTH: 80px; PADDING-RIGHT: 2px; FLOAT: left; PADDING-TOP: 0px
+}
+.subNav LI A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; COLOR: #433535; CURSOR: pointer; PADDING-TOP: 2px
+}
+.subNav LI A:hover {
+	BACKGROUND: #92351f; COLOR: #ffef9d; TEXT-DECORATION: none
+}
+.subNav LI.news {
+	WIDTH: 82px
+}
+.subNav LI.tese {
+	WIDTH: 86px
+}
+.subNav LI.download {
+	WIDTH: 87px
+}
+.subNav LI.guide {
+	WIDTH: 83px
+}
+.subNav LI.video {
+	WIDTH: 82px
+}
+.subNav LI.twjh {
+	WIDTH: 88px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.leftbar {
+	WIDTH: 200px; FLOAT: left
+}
+.flash_btn {
+	POSITION: relative; WIDTH: 200px; HEIGHT: 220px
+}
+.flash_btn A {
+	TEXT-INDENT: -9999px
+}
+#flash_btn {
+	Z-INDEX: 10; POSITION: absolute; WIDTH: 200px; HEIGHT: 220px; TOP: 0px; LEFT: 0px
+}
+.down_btn {
+	POSITION: absolute; WIDTH: 200px; DISPLAY: block; HEIGHT: 145px; TOP: 0px; LEFT: 0px
+}
+.reg_btn {
+	POSITION: absolute; WIDTH: 100px; DISPLAY: block; HEIGHT: 75px; TOP: 145px; LEFT: 0px
+}
+.pay_btn {
+	POSITION: absolute; WIDTH: 100px; DISPLAY: block; HEIGHT: 75px; TOP: 145px; LEFT: 100px
+}
+.nav_btn {
+	MARGIN-TOP: 9px; WIDTH: 200px; BACKGROUND-POSITION: 0px -320px; HEIGHT: 160px; OVERFLOW: hidden
+}
+.nav_btn A {
+	TEXT-INDENT: -9999px; WIDTH: 100px; DISPLAY: block; FLOAT: left; HEIGHT: 38px; OVERFLOW: hidden
+}
+.nav_btn A.guide_btn {
+	BACKGROUND-POSITION: 0px -320px
+}
+.nav_btn A.guide_btn:hover {
+	BACKGROUND-POSITION: -200px -320px
+}
+.nav_btn A.video_btn {
+	BACKGROUND-POSITION: -100px -320px
+}
+.nav_btn A.video_btn:hover {
+	BACKGROUND-POSITION: -300px -320px
+}
+.nav_btn A.bbs_btn {
+	MARGIN-TOP: 24px; BACKGROUND-POSITION: 0px -382px
+}
+.nav_btn A.bbs_btn:hover {
+	BACKGROUND-POSITION: -200px -382px
+}
+.nav_btn A.com_btn {
+	MARGIN-TOP: 24px; BACKGROUND-POSITION: -100px -382px
+}
+.nav_btn A.com_btn:hover {
+	BACKGROUND-POSITION: -300px -382px
+}
+.nav_btn A.ser_btn {
+	MARGIN-TOP: 21px; BACKGROUND-POSITION: 0px -441px
+}
+.nav_btn A.ser_btn:hover {
+	BACKGROUND-POSITION: -200px -441px
+}
+.nav_btn A.safe_btn {
+	MARGIN-TOP: 21px; BACKGROUND-POSITION: -100px -441px
+}
+.nav_btn A.safe_btn:hover {
+	BACKGROUND-POSITION: -300px -441px
+}
+.weibo {
+	POSITION: relative; WIDTH: 200px; BACKGROUND-POSITION: 0px -42px; HEIGHT: 200px; CLEAR: both
+}
+.weibo A {
+	TEXT-INDENT: -9999px; WIDTH: 100px; DISPLAY: block; FLOAT: left; HEIGHT: 100px; OVERFLOW: hidden
+}
+.weibo A.sina {
+	BACKGROUND-POSITION: 0px -42px
+}
+.weibo A.sina:hover {
+	BACKGROUND-POSITION: -200px -42px
+}
+.weibo A.qq {
+	BACKGROUND-POSITION: -100px -42px
+}
+.weibo A.qq:hover {
+	BACKGROUND-POSITION: -300px -42px
+}
+.weibo A.weixin {
+	BACKGROUND-POSITION: 0px -142px
+}
+.weibo A.weixin:hover {
+	BACKGROUND-POSITION: -200px -142px
+}
+.weibo A.yy {
+	BACKGROUND-POSITION: -100px -142px
+}
+.weibo A.yy:hover {
+	BACKGROUND-POSITION: -300px -142px
+}
+.weixin_box {
+	POSITION: absolute; WIDTH: 128px; DISPLAY: none; BACKGROUND-POSITION: -400px -42px; HEIGHT: 153px; TOP: 46px; LEFT: 97px
+}
+.weixin_box I {
+	POSITION: absolute; WIDTH: 4px; DISPLAY: block; BACKGROUND-POSITION: -524px 0px; HEIGHT: 6px; TOP: 97px; LEFT: -4px
+}
+.xdc {
+	WIDTH: 200px; DISPLAY: block; BACKGROUND-POSITION: 0px -242px; HEIGHT: 58px
+}
+.xdc:hover {
+	BACKGROUND-POSITION: -200px -242px
+}
+.surveypop #button {
+	BACKGROUND-IMAGE: url(http://i0.cy.com/dpol/main/20130619/vote_btn.jpg)
+}
+.surveypop {
+	POSITION: absolute; WIDTH: 400px; DISPLAY: none; FONT: 14px "Microsoft YaHei","黑体"; BACKGROUND: #cecece; COLOR: #734925
+}
+.surveypop FORM {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 50px; PADDING-RIGHT: 50px; PADDING-TOP: 20px
+}
+.surveypop FORM UL {
+	OVERFLOW: hidden
+}
+.surveypop FORM LI {
+	WIDTH: 100px; FLOAT: left
+}
+.surveypop H2 {
+	BORDER-BOTTOM: #a2978b 1px dashed; TEXT-ALIGN: center; PADDING-BOTTOM: 10px; FONT: 14px/26px "Microsoft YaHei","黑体"; MARGIN-BOTTOM: 20px; COLOR: #8f2929
+}
+.surveypop LABEL {
+	PADDING-LEFT: 10px
+}
+.surveypop .btn {
+	PADDING-TOP: 10px
+}
+.surveypop .close {
+	Z-INDEX: 99; POSITION: absolute; WIDTH: 38px; DISPLAY: block; BACKGROUND: url(http://i0.itc.cn/20120809/2b87_c6f67cb1_1c04_ee54_7742_3ed691aae89a_1.jpg) no-repeat; HEIGHT: 38px; CLEAR: both; CURSOR: pointer; RIGHT: -38px; TOP: 0px
+}
+.surveypop #button {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; TEXT-INDENT: -999em; MARGIN: 10px auto; WIDTH: 106px; DISPLAY: block; BACKGROUND-POSITION: 0px 0px; HEIGHT: 30px; BORDER-TOP: medium none; CURSOR: pointer; BORDER-RIGHT: medium none
+}
+.surveypop #button:hover {
+	BACKGROUND-POSITION: 0px -31px
+}
+#button {
+	MARGIN: 20px 0px 0px 110px; DISPLAY: block; CURSOR: pointer
+}
+.gwzc {
+	BACKGROUND: url(http://i1.cy.com/xtl/main/20140721/zc.jpg) no-repeat
+}
+.gwzc:hover {
+	BACKGROUND: url(http://i1.cy.com/xtl/main/20140721/zc.jpg) no-repeat
+}
+.gwzc {
+	WIDTH: 200px; DISPLAY: block; BACKGROUND-POSITION: 0px 0px; HEIGHT: 58px
+}
+.gwzc:hover {
+	BACKGROUND-POSITION: 0px -59px
+}
+.surveypop_zc #button {
+	BACKGROUND-IMAGE: url(http://i0.cy.com/dpol/main/20130619/vote_btn.jpg)
+}
+.surveypop_zc {
+	POSITION: absolute; WIDTH: 400px; DISPLAY: none; FONT: 14px "Microsoft YaHei","黑体"; HEIGHT: 350px; COLOR: #734925
+}
+.surveypop_zc FORM {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 50px; PADDING-RIGHT: 50px; PADDING-TOP: 20px
+}
+.surveypop_zc FORM UL {
+	OVERFLOW: hidden
+}
+.surveypop_zc FORM LI {
+	WIDTH: 100px; FLOAT: left
+}
+.surveypop_zc H2 {
+	BORDER-BOTTOM: #a2978b 1px dashed; TEXT-ALIGN: center; PADDING-BOTTOM: 10px; FONT: 14px/26px "Microsoft YaHei","黑体"; MARGIN-BOTTOM: 20px; COLOR: #8f2929
+}
+.surveypop_zc LABEL {
+	PADDING-LEFT: 10px
+}
+.surveypop_zc .btn {
+	PADDING-TOP: 10px
+}
+.surveypop_zc .close {
+	Z-INDEX: 99; POSITION: absolute; WIDTH: 38px; DISPLAY: block; BACKGROUND: url(http://i0.itc.cn/20120809/2b87_c6f67cb1_1c04_ee54_7742_3ed691aae89a_1.jpg) no-repeat; HEIGHT: 38px; CLEAR: both; CURSOR: pointer; RIGHT: -38px; TOP: 0px
+}
+.surveypop_zc #button {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; TEXT-INDENT: -999em; MARGIN: 10px auto; WIDTH: 106px; DISPLAY: block; BACKGROUND-POSITION: 0px 0px; HEIGHT: 30px; BORDER-TOP: medium none; CURSOR: pointer; BORDER-RIGHT: medium none
+}
+.surveypop_zc #button:hover {
+	BACKGROUND-POSITION: 0px -31px
+}
+#button {
+	MARGIN: 20px 0px 0px 110px; DISPLAY: block; CURSOR: pointer
+}
+.mediaBox {
+	WIDTH: 200px; HEIGHT: 207px; OVERFLOW: hidden
+}
+.media_tabs {
+	WIDTH: 200px; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/h2.png) repeat-x left bottom; HEIGHT: 53px; OVERFLOW: hidden
+}
+.media_tabs LI {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: url(http://i1.cy.com/xtl/main/20140930/media_right.jpg) no-repeat right center; FLOAT: left; HEIGHT: 25px; PADDING-TOP: 0px
+}
+.media_tabs LI.noright {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.media_tabs LI A {
+	LINE-HEIGHT: 25px; DISPLAY: block; HEIGHT: 25px; COLOR: #4e473a
+}
+.media_tabs LI A.current_t {
+	BACKGROUND: url(http://i1.cy.com/xtl/main/20140930/media_bottom.jpg) no-repeat center bottom; COLOR: #c64e36; TEXT-DECORATION: none
+}
+.media_tabs LI A:hover {
+	BACKGROUND: url(http://i1.cy.com/xtl/main/20140930/media_bottom.jpg) no-repeat center bottom; COLOR: #c64e36; TEXT-DECORATION: none
+}
+.mediacont {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto 0px -117px; PADDING-LEFT: 0px; WIDTH: 300px; PADDING-RIGHT: 0px; DISPLAY: none; HEIGHT: 125px; PADDING-TOP: 16px
+}
+.mediacont DL {
+	WIDTH: 300px; HEIGHT: 104px; OVERFLOW: hidden
+}
+.mediacont DT {
+	WIDTH: 111px; FLOAT: left; HEIGHT: 104px; OVERFLOW: hidden
+}
+.mediacont DD {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; WIDTH: 174px; PADDING-RIGHT: 0px; FLOAT: right; HEIGHT: 100px; OVERFLOW: hidden; PADDING-TOP: 2px
+}
+.mediacont DD LI {
+	LINE-HEIGHT: 20px; HEIGHT: 20px; OVERFLOW: hidden
+}
+.mediacont DD LI A {
+	COLOR: #685e4d
+}
+.mediacont DD LI A:hover {
+	COLOR: #c64e36
+}
+.game_anc {
+	WIDTH: 200px; HEIGHT: 200px
+}
+.game_anc H2 {
+	BORDER-BOTTOM: #685e4d 1px dashed; TEXT-ALIGN: center; LINE-HEIGHT: 36px; MARGIN: 0px auto; WIDTH: 160px; FONT-FAMILY: "Microsoft YaHei"; HEIGHT: 36px; COLOR: #685e4d; FONT-SIZE: 14px; OVERFLOW: hidden
+}
+.game_txt {
+	PADDING-BOTTOM: 15px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 160px; PADDING-RIGHT: 0px; PADDING-TOP: 8px
+}
+.game_anc P.game_b {
+	TEXT-ALIGN: left; LINE-HEIGHT: 14px; MARGIN: 0px auto; WIDTH: 160px; COLOR: #b5ac98
+}
+.game_anc P {
+	LINE-HEIGHT: 20px; COLOR: #8b7d63
+}
+.bg_content {
+	WIDTH: 100%; BACKGROUND: url(http://i1.cy.com/xtl/main/20140224/btm_bg.jpg) no-repeat center bottom
+}
+.main_content {
+	Z-INDEX: 10; POSITION: relative; PADDING-BOTTOM: 34px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 1000px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#backToTop A {
+	Z-INDEX: 10; POSITION: absolute; TEXT-INDENT: -9999em; WIDTH: 25px; DISPLAY: block; HEIGHT: 26px; CURSOR: pointer; TOP: 0px; LEFT: 0px
+}
+#backToTop .bt_bg {
+	Z-INDEX: 8; POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i0.cy.com/xtl/main/20140227/backTop.png',sizingMethod='scale'); WIDTH: 25px; BACKGROUND: 0px 50%; HEIGHT: 26px; TOP: 0px; LEFT: 0px
+}
+#backToTop {
+	Z-INDEX: 1; POSITION: fixed; WIDTH: 25px; BOTTOM: 110px; DISPLAY: none; HEIGHT: 26px; RIGHT: 50%; MARGIN-RIGHT: -533px
+}
+* HTML #backToTop {
+	POSITION: absolute; ; MARGIN-TOP: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px')
+}
